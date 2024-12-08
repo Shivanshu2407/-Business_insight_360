@@ -4,7 +4,11 @@ Welcome to the Business Insights 360 Power BI Dashboard repository! This project
 
 🌟 Overview
 The Business Insights 360 Dashboard is a data-driven solution crafted to enhance strategic growth and decision-making. With powerful visualizations and an intuitive user interface, this dashboard provides a holistic view of business performance, enabling critical insights and opportunities to be identified at a glance.
-	Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2I4YTM3NDMtMGEzZi00NjQ4LTliOGEtM2JjZWMzNmQ0N2FjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 👈
+	
+ 
+ Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2I4YTM3NDMtMGEzZi00NjQ4LTliOGEtM2JjZWMzNmQ0N2FjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 
 
 📊 Key Features
