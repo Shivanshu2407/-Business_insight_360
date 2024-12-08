@@ -1,140 +1,130 @@
-Business Insights 360 Dashboard 📊
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Insights 360 Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            margin: 10px 0;
+            padding: 0 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #2c3e50;
+            display: inline-block;
+        }
+        .highlight {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
 
-Welcome to the Business Insights 360 Power BI Dashboard! This project provides a comprehensive overview of business performance for AtliQ Manufacturing, offering actionable insights across various domains such as Finance, Sales, Marketing, Supply Chain, and Executive operations.
-🌟 Overview
+    <h1>Business Insights 360 Dashboard 📊</h1>
+    <p>Welcome to the <strong>Business Insights 360 Power BI Dashboard</strong> repository! This project delivers a comprehensive and interactive dashboard for <strong>AtliQ Manufacturing</strong>, empowering stakeholders with actionable insights across key business domains like Finance, Sales, Marketing, Supply Chain, and Executive operations.</p>
 
-The Business Insights 360 dashboard is a dynamic solution designed to empower data-driven decision-making and drive strategic growth. With an intuitive interface and powerful visualizations, this project offers a holistic view of business performance, enabling stakeholders to gain critical insights at a glance.
-🌟 Live Dashboard: Click here 👈
+    <div class="section">
+        <h2 class="section-title">🌟 Overview</h2>
+        <p>The <strong>Business Insights 360 Dashboard</strong> is a data-driven solution crafted to enhance strategic growth and decision-making. With powerful visualizations and an intuitive user interface, this dashboard provides a holistic view of business performance, enabling critical insights and opportunities to be identified at a glance.</p>
+        <p><strong>Live Dashboard</strong>: <a href="#" target="_blank">Click here 👈</a></p>
+    </div>
 
-📊 Key Features
+    <div class="section">
+        <h2 class="section-title">📊 Key Features</h2>
+        <ul>
+            <li><strong>Homepage</strong>: Intuitive navigation for seamless access to various reports.</li>
+            <li><strong>Finance View</strong>: Granular Profit & Loss (P&L) insights segmented by customers, products, and regions with time-based filters.</li>
+            <li><strong>Sales View</strong>: Deep dive into customer performance metrics like Net Sales (NS), Gross Margin (GM), and year-to-date (YTD) comparisons.</li>
+            <li><strong>Marketing View</strong>: Analyze product performance with toggles for Gross Margin % and Net Margin %.</li>
+            <li><strong>Supply Chain Insights</strong>: Metrics like Forecast Accuracy and risk profiling for inventory optimization.</li>
+            <li><strong>Executive Summary</strong>: A high-level snapshot for senior management.</li>
+            <li><strong>Support Section</strong>: Quick access to troubleshooting resources.</li>
+        </ul>
+    </div>
 
-    Homepage: A quick overview with intuitive buttons for easy navigation.
-    Finance View: Detailed Profit & Loss (P&L) statements across customers, products, and regions, with flexible time-period aggregations.
-    Sales View: In-depth customer performance analysis using key metrics like Net Sales (NS), Gross Margin (GM), and year-to-date (YTD) or year-to-go (YTG) comparisons.
-    Marketing View: Product performance insights with toggles between Gross Margin % and Net Margin % for deeper analysis.
-    Supply Chain Insights: Metrics like Forecast Accuracy and risk profiles for optimized inventory management.
-    Executive Summary: High-level overview for strategic decision-making.
-    Support Section: Directs users to the support team for troubleshooting and assistance.
+    <div class="section">
+        <h2 class="section-title">📈 Key Insights</h2>
+        <h3>Overall Performance</h3>
+        <ul>
+            <li><strong>Net Sales</strong>: GHS 3,736M</li>
+            <li><strong>Gross Margin</strong>: 38.08%</li>
+        </ul>
+        <h3>Regional Insights</h3>
+        <ul>
+            <li><strong>APAC</strong>: Strong sales (GHS 1,924M) but faces profitability challenges (-14.62% NP%).</li>
+            <li><strong>North America</strong>: High profitability (44.97% GM%).</li>
+        </ul>
+        <h3>Customer Insights</h3>
+        <ul>
+            <li><strong>Top Customers</strong>:
+                <ul>
+                    <li>Amazon</li>
+                    <li>AtliQ Exclusive (GM: 47.22%)</li>
+                </ul>
+            </li>
+        </ul>
+        <h3>Product Segmentation</h3>
+        <ul>
+            <li><strong>Top Performers</strong>: Notebooks, Desktops</li>
+            <li><strong>Underperformers</strong>: Accessories, Peripherals</li>
+        </ul>
+    </div>
 
-📈 Key Insights
-Overall Performance
+    <div class="section">
+        <h2 class="section-title">💡 Recommendations</h2>
+        <h3>1. Boost Net Sales</h3>
+        <p><span class="highlight">Challenges</span>: Growth remains below the 2022 target.</p>
+        <ul>
+            <li>Launch targeted campaigns.</li>
+            <li>Partner with digital marketing teams to explore untapped markets.</li>
+            <li>Introduce discounts on top-performing products.</li>
+            <li>Analyze customer feedback for new product opportunities.</li>
+        </ul>
+        <h3>2. Optimize Amazon Operations</h3>
+        <p><span class="highlight">Challenges</span>: High operational costs affecting profitability.</p>
+        <ul>
+            <li>Renegotiate terms with Amazon.</li>
+            <li>Automate invoice reconciliation.</li>
+            <li>Improve operational efficiencies.</li>
+            <li>Create exclusive bundles.</li>
+        </ul>
+        <!-- Add remaining recommendations as needed -->
+    </div>
 
-    Net Sales: GHS 3,736M
-    Gross Margin: 38.08%
+    <div class="section">
+        <h2 class="section-title">🙏 Acknowledgments</h2>
+        <p>A heartfelt thank you to <strong>Dhaval Patel Sir</strong>, <strong>Hemanand Vadivel Sir</strong>, and the <strong>Codebasics team</strong> for their guidance and support throughout this project.</p>
+    </div>
 
-Regional Insights
+    <div class="section">
+        <h2 class="section-title">📬 Contact</h2>
+        <p>For questions, suggestions, or collaborations, feel free to reach out. Let’s grow and learn together! 🚀</p>
+    </div>
 
-    APAC: Leads in sales (GHS 1,924M) but faces profitability challenges (-14.62% NP%).
-    North America: Showcases strong margins (44.97% GM%).
-
-Customer Performance
-
-    Top Contributors:
-        Amazon
-        AtliQ Exclusive (with a high GM of 47.22%)
-
-Product Segmentation
-
-    Top Performers: Notebook and Desktop
-    Areas for Improvement: Accessories and Peripherals need cost optimization.
-
-💡 Recommendations
-1. Net Sales Performance
-
-Despite steady growth, AtliQ's Net Sales remain below the 2022 target.
-
-    Recommendations:
-        Launch targeted marketing campaigns.
-        Collaborate with digital marketing teams to reach untapped markets.
-        Offer strategic discounts on top-selling products.
-        Analyze customer feedback to introduce new products.
-
-2. Amazon Performance
-
-Amazon is the top revenue generator but falls short in profitability due to high operational costs.
-
-    Recommendations:
-        Negotiate better terms with Amazon.
-        Implement automated systems for invoice discrepancies.
-        Streamline operational processes.
-        Introduce exclusive product bundles.
-
-3. AtliQ Exclusive Performance
-
-AtliQ Exclusive excels in both revenue and Gross Margin.
-
-    Recommendations:
-        Expand product offerings.
-        Enhance customer loyalty through promotions and loyalty programs.
-        Increase brand visibility with targeted marketing efforts.
-
-4. Networking and Storage Division
-
-This division shows strong profitability despite lower sales volume.
-
-    Recommendations:
-        Increase marketing and sales efforts.
-        Target B2B clients and enterprise customers.
-        Offer bundled solutions with complementary services.
-
-5. PC Market Share Growth
-
-AtliQ is a strong contender but has room for further growth.
-
-    Recommendations:
-        Intensify promotional efforts.
-        Launch limited-time offers and bundle promotions.
-        Invest in product innovation.
-        Strengthen relationships with distributors and retailers.
-
-🛠️ Power BI Techniques Learned
-
-    Data Importing and Integration:
-        Connected multiple data sources (Excel, SQL databases, web).
-        Merged and appended data efficiently.
-
-    Data Transformation with Power Query:
-        Cleaned and prepared raw data.
-        Handled missing or inconsistent data.
-
-    Data Modeling:
-        Designed star and snowflake schemas.
-        Built relationships between tables and created calculated columns.
-
-    DAX (Data Analysis Expressions):
-        Created advanced measures for KPIs.
-        Utilized functions like CALCULATE, FILTER, and SUMX.
-
-    Visualization Techniques:
-        Designed interactive dashboards with bar charts, slicers, tables, and maps.
-        Customized visuals for enhanced storytelling.
-
-    Interactivity and Filtering:
-        Implemented slicers, drill-through, and bookmarks.
-        Synced filters across multiple pages.
-
-    Performance Optimization:
-        Reduced report load time by optimizing data models.
-        Used aggregations and summarizations effectively.
-
-    Publishing and Sharing:
-        Published reports to Power BI Service with automated refresh schedules.
-        Shared dashboards securely with stakeholders.
-
-    Advanced Features:
-        Implemented Row-Level Security (RLS).
-        Used AI visuals for predictive insights.
-
-🚀 Business Value
-
-    Enhanced Decision-Making: Enables dynamic strategies through real-time insights.
-    Profitability Analysis: Identifies high-margin regions, products, and customers.
-    Operational Efficiency: Optimizes supply chain and operational costs.
-    Customer-Centric Growth: Supports tailored strategies for top-performing customers.
-
-🙏 Acknowledgments
-
-A special thank you to Dhaval Patel Sir, Hemanand Vadivel Sir, and the entire Codebasics team for their invaluable guidance and support throughout this journey. 🙏😊
-
-📬 Contact
-Feel free to reach out for any questions, suggestions, or collaboration opportunities. Let's grow and learn together! 🚀
+</body>
+</html>
